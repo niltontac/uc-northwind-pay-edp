@@ -31,11 +31,15 @@ execution_backend: claude
 signed_off: true
 signed_off_by: luanmorenomaciel
 signed_off_at: 2026-08-29T00:46:27Z
-accepted: false
-accepted_by: (none)
-accepted_at: (none)
+accepted: true
+accepted_by: luanmorenomaciel
+accepted_at: 2026-09-10T19:05:38Z
 evidence_refs: []
 signed_off_sig: hmac-sha256-v3:d90e2e61:e327f7be21a9cc4dfb0513e62bed23d357a8d0597cd9595924b4013ff49ef586
+accepted_tier: 2
+accepted_attempt_id: e8c57f12-9bfb-5c45-b8f3-5ee3bdcbb5e5
+accepted_authorization_ref: hmac-sha256-v3:d90e2e61:e327f7be21a9cc4dfb0513e62bed23d357a8d0597cd9595924b4013ff49ef586
+acceptance_record_digest: sha256:14d779524f8b5e9ea9164583dd184c7e4275ba25c3306c761af2215656fb0afc
 ---
 
 # Type 05 dlt → Gold + golden-match (DF-SOURCE-005 source defect; HALF_UP; HALF_EVEN is MODERN_DEFECT)
