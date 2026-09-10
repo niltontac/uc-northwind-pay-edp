@@ -30,11 +30,15 @@ execution_backend: claude
 signed_off: true
 signed_off_by: luanmorenomaciel
 signed_off_at: 2026-08-29T00:58:20Z
-accepted: false
-accepted_by: (none)
-accepted_at: (none)
+accepted: true
+accepted_by: luanmorenomaciel
+accepted_at: 2026-09-10T19:05:12Z
 evidence_refs: []
 signed_off_sig: hmac-sha256-v3:d90e2e61:c82a725950013b96d9021d123d375a31d75ca5500d011f21dfc71e91ad88d3b8
+accepted_tier: 2
+accepted_attempt_id: 43128cdc-20ed-5014-9af6-e7351b245c4d
+accepted_authorization_ref: hmac-sha256-v3:d90e2e61:c82a725950013b96d9021d123d375a31d75ca5500d011f21dfc71e91ad88d3b8
+acceptance_record_digest: sha256:e3b042dd587740acb30673242f38e83caf2be4b4a218a46532e53bf4ce3b8feb
 ---
 
 # Dagster lineage on closed Type 01 — parsing does not move into the orchestrator
