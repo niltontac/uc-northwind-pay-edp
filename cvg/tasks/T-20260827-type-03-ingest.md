@@ -33,11 +33,15 @@ execution_backend: claude
 signed_off: true
 signed_off_by: luanmorenomaciel
 signed_off_at: 2026-08-29T00:22:28Z
-accepted: false
-accepted_by: (none)
-accepted_at: (none)
+accepted: true
+accepted_by: luanmorenomaciel
+accepted_at: 2026-09-10T19:05:17Z
 evidence_refs: []
 signed_off_sig: hmac-sha256-v3:d90e2e61:da8ae5a6cf1f2ac1b3282f00bde335f63fe2a2863b5c50f22e6af2542df0b5ea
+accepted_tier: 2
+accepted_attempt_id: b7d09629-0ebe-5e5f-9ac7-27431eaebf06
+accepted_authorization_ref: hmac-sha256-v3:d90e2e61:da8ae5a6cf1f2ac1b3282f00bde335f63fe2a2863b5c50f22e6af2542df0b5ea
+acceptance_record_digest: sha256:87f6e436c5cfc0d23b4b57aeae05fd5d509d0ecac7dcd35a6011aa26ef66489a
 ---
 
 # Type 03 ingest → landing (five-file package; zero Parquet on DF-SOURCE-003)
