@@ -30,11 +30,15 @@ execution_backend: claude
 signed_off: true
 signed_off_by: luanmorenomaciel
 signed_off_at: 2026-08-29T00:57:59Z
-accepted: false
-accepted_by: (none)
-accepted_at: (none)
+accepted: true
+accepted_by: luanmorenomaciel
+accepted_at: 2026-09-10T19:05:03Z
 evidence_refs: []
 signed_off_sig: hmac-sha256-v3:d90e2e61:54a764a63e8ac440c6fdccb9dda68ab814f4077dbe3851f883273a4ef997ee6e
+accepted_tier: 2
+accepted_attempt_id: b531aa05-40fd-5932-a713-67a31a2b4fbf
+accepted_authorization_ref: hmac-sha256-v3:d90e2e61:54a764a63e8ac440c6fdccb9dda68ab814f4077dbe3851f883273a4ef997ee6e
+acceptance_record_digest: sha256:c3228f378c34f58850a348ef40291e655c449648bb78456b565c2c3c20d4628f
 ---
 
 # Register Type 01 landing Parquet through dlt (no re-parse)
