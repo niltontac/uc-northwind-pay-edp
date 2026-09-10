@@ -31,11 +31,15 @@ execution_backend: claude
 signed_off: true
 signed_off_by: luanmorenomaciel
 signed_off_at: 2026-08-29T00:46:51Z
-accepted: false
-accepted_by: (none)
-accepted_at: (none)
+accepted: true
+accepted_by: luanmorenomaciel
+accepted_at: 2026-09-10T19:05:32Z
 evidence_refs: []
 signed_off_sig: hmac-sha256-v3:d90e2e61:bd763dd5ae9077fbbff46b8d62bdc937b7a7228259c1f74a271b95f6a4aadbad
+accepted_tier: 2
+accepted_attempt_id: 96389803-74ba-5d23-92b5-03b3f2ba5026
+accepted_authorization_ref: hmac-sha256-v3:d90e2e61:bd763dd5ae9077fbbff46b8d62bdc937b7a7228259c1f74a271b95f6a4aadbad
+acceptance_record_digest: sha256:70bf0a3afeb4546a45cf7ede2ff11860d777e99bd312c0c667eed655aad82c32
 ---
 
 # Type 03 dlt → Gold + golden-match (same referee; no new grain ADR)
