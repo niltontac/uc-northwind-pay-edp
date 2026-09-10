@@ -35,11 +35,15 @@ execution_backend: claude
 signed_off: true
 signed_off_by: luanmorenomaciel
 signed_off_at: 2026-08-29T00:57:11Z
-accepted: false
-accepted_by: (none)
-accepted_at: (none)
+accepted: true
+accepted_by: luanmorenomaciel
+accepted_at: 2026-09-10T19:05:01Z
 evidence_refs: []
 signed_off_sig: hmac-sha256-v3:d90e2e61:b3c732d700ab9c005762f1f2af2c6e0832be77698ee3a6474dd356eb6c27fbcb
+accepted_tier: 2
+accepted_attempt_id: a6be0ee5-8ae4-5832-a18a-dbec584ea971
+accepted_authorization_ref: hmac-sha256-v3:d90e2e61:b3c732d700ab9c005762f1f2af2c6e0832be77698ee3a6474dd356eb6c27fbcb
+acceptance_record_digest: sha256:f2c9585bd75fee73e68e966b5b65ba7a0d53d5784ff6236d025d0108917e4757
 ---
 
 # Emit Type 01 landing Parquet for valid-minimal; zero Parquet on the lie
