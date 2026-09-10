@@ -30,11 +30,15 @@ execution_backend: claude
 signed_off: true
 signed_off_by: luanmorenomaciel
 signed_off_at: 2026-08-29T00:57:33Z
-accepted: false
-accepted_by: (none)
-accepted_at: (none)
+accepted: true
+accepted_by: luanmorenomaciel
+accepted_at: 2026-09-10T19:05:10Z
 evidence_refs: []
 signed_off_sig: hmac-sha256-v3:d90e2e61:d9df13b69abc6866fbaf80ac96317b12dcdaf4963ea303e8c07d13d0a7511933
+accepted_tier: 2
+accepted_attempt_id: 81aa0c83-4447-54fc-b322-5ae69ad05152
+accepted_authorization_ref: hmac-sha256-v3:d90e2e61:d9df13b69abc6866fbaf80ac96317b12dcdaf4963ea303e8c07d13d0a7511933
+acceptance_record_digest: sha256:b7eacd73832bbd8bb2eab80f887e4e988e02b68729d310cff46e5a6282081507
 ---
 
 # Attach golden-match to Type 01 modern observations
