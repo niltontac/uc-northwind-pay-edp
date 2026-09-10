@@ -29,11 +29,15 @@ execution_backend: any
 signed_off: true
 signed_off_by: luanmorenomaciel
 signed_off_at: 2026-08-28T01:36:09Z
-accepted: false
-accepted_by: (none)
-accepted_at: (none)
+accepted: true
+accepted_by: luanmorenomaciel
+accepted_at: 2026-09-10T19:04:59Z
 evidence_refs: []
 signed_off_sig: hmac-sha256-v3:d90e2e61:d239b1dba1cc6089a2d7c64dff66405ce5139450ee25617adbed69f6dbe80ccc
+accepted_tier: 2
+accepted_attempt_id: 8a3218f2-b36b-560f-9158-9df60b7fcc11
+accepted_authorization_ref: hmac-sha256-v3:d90e2e61:d239b1dba1cc6089a2d7c64dff66405ce5139450ee25617adbed69f6dbe80ccc
+acceptance_record_digest: sha256:185355868c19c2e0002714e2664d2ea5dc60fa7a77af943b80b98b0d34665fb2
 ---
 
 # Parse Type 01 card settlement into Decimal, privacy-safe records for landing
