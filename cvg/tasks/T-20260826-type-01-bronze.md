@@ -31,11 +31,15 @@ execution_backend: claude
 signed_off: true
 signed_off_by: luanmorenomaciel
 signed_off_at: 2026-08-29T00:58:05Z
-accepted: false
-accepted_by: (none)
-accepted_at: (none)
+accepted: true
+accepted_by: luanmorenomaciel
+accepted_at: 2026-09-10T19:05:05Z
 evidence_refs: []
 signed_off_sig: hmac-sha256-v3:d90e2e61:22b7ae7264a73903f40d54d9e2f1f35efe38faeda149cf555a69bd06278fc63f
+accepted_tier: 2
+accepted_attempt_id: e6910678-1b54-53e6-956e-f64c19953c10
+accepted_authorization_ref: hmac-sha256-v3:d90e2e61:22b7ae7264a73903f40d54d9e2f1f35efe38faeda149cf555a69bd06278fc63f
+acceptance_record_digest: sha256:6113a870e546e2e6d754efe7a53a22e8312a63c43bf701cdbf6da848dd752d4e
 ---
 
 # Type 01 Bronze is source-aligned to landing
