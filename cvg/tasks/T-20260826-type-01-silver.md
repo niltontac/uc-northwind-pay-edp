@@ -30,11 +30,15 @@ execution_backend: claude
 signed_off: true
 signed_off_by: luanmorenomaciel
 signed_off_at: 2026-08-29T00:58:10Z
-accepted: false
-accepted_by: (none)
-accepted_at: (none)
+accepted: true
+accepted_by: luanmorenomaciel
+accepted_at: 2026-09-10T19:05:07Z
 evidence_refs: []
 signed_off_sig: hmac-sha256-v3:d90e2e61:cb6d7037ef1e77a236546d6bd4d7c67a5aa01cd25e4c985b53833bd9606b443b
+accepted_tier: 2
+accepted_attempt_id: 54d430f3-8afa-5e43-8bee-2ae1270f6fc8
+accepted_authorization_ref: hmac-sha256-v3:d90e2e61:cb6d7037ef1e77a236546d6bd4d7c67a5aa01cd25e4c985b53833bd9606b443b
+acceptance_record_digest: sha256:d2bb2a9bec0eb081da4cc98d5b68c91c098ba64145cab66623a603ce409bbc19
 ---
 
 # Type 01 Silver conforms without changing money
